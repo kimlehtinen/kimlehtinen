@@ -1,5 +1,6 @@
-### Hi there 👋
+# Kim Lehtinen
 
-- 🔭 I’m currently working on my thesis about scaling a Kubernetes cluster for smart factories
-- 🌱 I’m currently learning Cloud Computing, Distributed Systems, IoT, Kubernetes, Scalability
+- 👨‍💻 Software Engineer
+- 📍 Vaasa, Finland 🇫🇮
+- 🎓 MSc degree in Computer Science
 - 📫 How to reach me: kim@kimlehtinen.com

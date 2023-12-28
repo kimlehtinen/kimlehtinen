@@ -2,5 +2,5 @@
 
 - 👨‍💻 Software Engineer
 - 📍 Vaasa, Finland 🇫🇮
-- 🎓 MSc degree in Computer Science
+- 🎓 MSc degree in Automation & Computer Science, University of Vaasa
 - 📫 How to reach me: kim@kimlehtinen.com

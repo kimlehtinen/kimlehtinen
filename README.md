@@ -1,6 +1,6 @@
 # Kim Lehtinen
 
 - 👨‍💻 Software Engineer
-- 📍 Vaasa, Finland 🇫🇮
+- 📍 Espoo, Finland 🇫🇮
 - 🎓 MSc degree in Automation & Computer Science, University of Vaasa
 - 📫 How to reach me: kim@kimlehtinen.com
